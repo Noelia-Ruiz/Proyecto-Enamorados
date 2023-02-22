@@ -6,6 +6,6 @@
 
 # ¿Cómo lo juego?
 
-## Solo tenés que disparar al centro
-## de los círculos cuando aparecen
-## y leer el tierno mensaje :smile:
+### Solo tenés que disparar al centro
+### de los círculos cuando aparecen
+### y leer el tierno mensaje :smile:
