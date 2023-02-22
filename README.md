@@ -1,8 +1,11 @@
 # Proyecto-Enamorados
-### Juego interactivo de flechar corazones con html, css y javaScript básico.
+### Juego interactivo de flechar corazones
+### con html, css y javaScript básico.
 
-![Feliz-Dia-de-San-Valentin-GIF-7](https://user-images.githubusercontent.com/111775575/220662823-8876d867-c707-4c08-b15b-9718d19746a3.gif)
+![techlosofy-mejores-gifs-para-enviar-san-valentin-gifs-ositos-amor](https://user-images.githubusercontent.com/111775575/220665605-5d60422d-6820-412f-8027-ba517082ec93.gif)
 
 # ¿Cómo lo juego?
 
-## Solo tenés que disparar al centro de los círculos cuando aparecen y leer el tierno mensaje :smile:
+## Solo tenés que disparar al centro
+## de los círculos cuando aparecen
+## y leer el tierno mensaje :smile:
